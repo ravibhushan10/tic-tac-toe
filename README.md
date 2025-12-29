@@ -2,10 +2,10 @@
 A beautiful, interactive Tic Tac Toe game built with modern web technologies featuring smooth animations and an intuitive user interface.
 
 ## 📸 Screenshots
- <img src="screenshots/main-menu.png" alt="Main Menu" width="80%">
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="80%">
-  <img src="screenshots/winner.png" alt="Winner Screen" width="80%">
-  <img src="screenshots/score-board.png" alt="Score Board" width="80%">
+ <img src="screenshots/front.png" alt="Main Menu" width="40%">
+  <img src="screenshots/second.png" alt="Gameplay" width="40%">
+  <img src="screenshots/third.png" alt="Winner Screen" width="40%">
+  
 
 ## [Live Demo](https://tic-tac-toe-gilt-iota-41.vercel.app)
 
@@ -85,8 +85,8 @@ Contributions are welcome! Here's how you can help:
 
 **Ravi Bhushan**
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
-- Portfolio: [Your Portfolio](https://ravibhushan-portfolio.vercel.app)
+- LinkedIn: [https://www.linkedin.com/in/ravibhushan-kumar-55b312344/](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
+- Portfolio: [https://ravibhushan-portfolio.vercel.app](https://ravibhushan-portfolio.vercel.app)
 - GitHub: [@ravibhushan10](https://github.com/ravibhushan10)
 - Email: ravibhushankumar87tp@gmail.com
 
