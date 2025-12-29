@@ -85,7 +85,7 @@ Contributions are welcome! Here's how you can help:
 
 **Ravi Bhushan**
 
-- LinkedIn: [https://www.linkedin.com/in/ravibhushan-kumar-55b312344/](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
+- LinkedIn: [https://www.linkedin.com/in/ravibhushan-kumar-55b312344](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
 - Portfolio: [https://ravibhushan-portfolio.vercel.app](https://ravibhushan-portfolio.vercel.app)
 - GitHub: [@ravibhushan10](https://github.com/ravibhushan10)
 - Email: ravibhushankumar87tp@gmail.com
