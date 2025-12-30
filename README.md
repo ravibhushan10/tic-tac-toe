@@ -65,20 +65,58 @@ A beautiful, interactive Tic Tac Toe game built with modern web technologies fea
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
+### How to Contribute
+
+1. **Fork the Repository**
+   - Click the 'Fork' button at the top right of this repository
+   - This creates a copy of the project in your GitHub account
+
+2. **Clone Your Fork**
+```bash
+   git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git
+   cd tic-tac-toe
+```
+
+3. **Create a Branch**
+```bash
    git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**
-   ```bash
+```
+
+4. **Make Your Changes**
+   - Write clean, readable code
+   - Follow the existing code style
+   - Test your changes thoroughly
+
+5. **Commit Your Changes**
+```bash
+   git add .
    git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**
-   ```bash
+```
+
+6. **Push to Your Fork**
+```bash
    git push origin feature/AmazingFeature
-   ```
+```
+
+7. **Open a Pull Request**
+   - Go to your forked repository on GitHub (https://github.com/YOUR-USERNAME/tic-tac-toe)
+   - You'll see a yellow banner saying **"Compare & pull request"** - click it
+     - If you don't see the banner, click the **"Contribute"** button, then **"Open pull request"**
+   - You'll be taken to the original repository's PR page
+   - GitHub will automatically compare your branch with the main repository
+   - Fill in the Pull Request form:
+     - **Title**: Brief summary (e.g., "Add dark mode toggle feature")
+     - **Description**: Explain your changes clearly:
+       - What changes you made
+       - Why you made them
+       - Screenshots (if UI changes)
+       - Related issue numbers (e.g., "Fixes #123")
+   - Click **"Create pull request"**
+   - Wait for review - the maintainer will review your PR and may:
+     - Approve and merge it ✅
+     - Request changes or improvements
+     - Ask questions or provide feedback
+   - Be patient and responsive to any feedback!
 
 
 ## 👨‍💻 Author
