@@ -2,9 +2,27 @@
 A beautiful, interactive Tic Tac Toe game built with modern web technologies featuring smooth animations and an intuitive user interface.
 
 ## 📸 Screenshots
- <img src="screenshots/front.png" alt="Main Menu" width="40%">
-  <img src="screenshots/second.png" alt="Gameplay" width="40%">
-  <img src="screenshots/third.png" alt="Winner Screen" width="40%">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/front.png" ><br/>
+      <em>Home Page</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/first.png" ><br/>
+      <em>Winner</em>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="screenshots/second.png" ><br/>
+      <em>Draw</em>
+    </td>
+  </tr>
+  
+</table>
+
   
 
 ## [Live Demo](https://tic-tac-toe-gilt-iota-41.vercel.app)
