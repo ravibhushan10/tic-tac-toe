@@ -117,24 +117,17 @@ A beautiful, interactive Tic Tac Toe game built with modern web technologies fea
 ```
 
 7. **Open a Pull Request**
-   - Go to your forked repository on GitHub (https://github.com/YOUR-USERNAME/tic-tac-toe)
-   - You'll see a yellow banner saying **"Compare & pull request"** - click it
-     - If you don't see the banner, click the **"Contribute"** button, then **"Open pull request"**
-   - You'll be taken to the original repository's PR page
-   - GitHub will automatically compare your branch with the main repository
-   - Fill in the Pull Request form:
-     - **Title**: Brief summary (e.g., "Add dark mode toggle feature")
+   - Go to your forked repository on GitHub
+   - Click **"Compare & pull request"**
+   - Fill in the PR form:
+     - **Title**: Brief summary (e.g., "Add password strength indicator")
      - **Description**: Explain your changes clearly:
        - What changes you made
        - Why you made them
        - Screenshots (if UI changes)
        - Related issue numbers (e.g., "Fixes #123")
    - Click **"Create pull request"**
-   - Wait for review - the maintainer will review your PR and may:
-     - Approve and merge it ✅
-     - Request changes or improvements
-     - Ask questions or provide feedback
-   - Be patient and responsive to any feedback!
+   - Wait for review and be responsive to feedback
 
 
 ## 👨‍💻 Author
