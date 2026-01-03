@@ -1,4 +1,3 @@
-/* General Body Styles */
 body {
     font-family: 'Arial', sans-serif;
     background: linear-gradient(135deg, #6a11cb, #2575fc);
@@ -12,7 +11,6 @@ body {
     color: white;
 }
 
-/* Container Styles */
 .container {
     text-align: center;
     background: rgba(255, 255, 255, 0.9);
@@ -29,14 +27,12 @@ body {
     margin-bottom: 40px;
 }
 
-/* Header Styling */
 h1 {
     font-size: 2.5rem;
     color: #333;
     margin-bottom: 20px;
 }
 
-/* Board Styles */
 .board {
     display: grid;
     grid-template-columns: repeat(3, 120px);
@@ -45,7 +41,6 @@ h1 {
     margin-bottom: 30px;
 }
 
-/* Individual Cells */
 .cell {
     width: 120px;
     height: 120px;
@@ -71,7 +66,6 @@ h1 {
     color: #555;
 }
 
-/* Winning message */
 #winner {
     font-size: 1.5rem;
     font-weight: 600;
@@ -84,7 +78,6 @@ h1 {
     color: #333;
 }
 
-/* Restart Button */
 button {
     padding: 12px 20px;
     font-size: 1.1rem;
@@ -104,7 +97,6 @@ button:active {
     transform: scale(0.98);
 }
 
-/* Responsive Styles */
 @media (max-width: 500px) {
     .board {
         grid-template-columns: repeat(3, 100px);
